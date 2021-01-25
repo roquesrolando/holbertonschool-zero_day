@@ -1,1 +1,1 @@
-# here are all the answers ofr 0x02 vim
+# here are all the answers for 0x02 vim
